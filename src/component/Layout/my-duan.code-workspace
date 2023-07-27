@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../react"
+	},
+	{
+		"path": "../../../../../DoAn"
+	},
+	{
+		"path": "../../../../../tailieu/Local-20230403T072245Z-001/Local"
+	},
+	{
+		"path": "../../../../../tubuidytb/amazona"
+	},
+	{
+		"path": "C:/Users/pc/Desktop/CDIO"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "my-duan"
+  }
+}
